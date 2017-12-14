@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dfeiji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "e4f28c7f-b9bd-4a10-a451-7cf578d0ae19"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "a3eaf3c0-7da2-4a52-951f-317c7cb418e5"
+            }
+          },
+          {
+            "frame": 0.48333333333333334,
+            "value": {
+              "__uuid__": "f3b7ba7b-d000-421b-b83f-0d5b4e656f44"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "f3b7ba7b-d000-421b-b83f-0d5b4e656f44"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "de446ff8-25ca-4363-9139-bc11f4190a3a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.0666666666666667,
+      "func": "over",
+      "params": []
+    }
+  ]
+}
